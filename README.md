@@ -1,4 +1,3 @@
-# DEmo-1
-My 1st repository
+# FAKE NEWS DETECTION 
 <br>
 Author- Anika Jain
